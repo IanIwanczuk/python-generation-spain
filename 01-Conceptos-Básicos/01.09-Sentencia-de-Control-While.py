@@ -1,30 +1,60 @@
-valor = 0
+#####################################################################
+# Sentencias de Control - While                                     #
+#####################################################################
+#                                                                   #
+#   Sintaxis: while ([condición]):                                  #
+#                                                                   #
+#   Con while podemos ejecutar un conjunto de sentencias            #
+#   siempre que la condición sea verdadera.                         #
+#                                                                   #
+#####################################################################
 
+valor = 0
 while (valor < 5):
-    valor = valor + 1                   # equivalente a valor += 1
-    if(valor == 2):
-        break
+    valor += 1
+    if (valor == 3):
+        continue
+    print(f"Valor: {valor}")
+
+print("Fin del WHILE")
+print("")
+
+#####################################################################
+
+citricos = ["naranja", "limón", "pomelo", "líma", "mandarina"]
+index = 0
+
+while (index < len(citricos)):
+    print(citricos[index])
+    index += 1
+
+print("Fin del WHILE")
+print("")
+
+#####################################################################
+
+index = 0
+
+while (index < 5):
+    index = index + 1                   # equivalente a valor += 1
+    if (index == 2):
+        break                           # también podemos utilizar continue
     print(f"El valor es {valor}.")
 
 print("Fin del WHILE")
+print("")
 
-# Número de elementos/valores: 5
-# Posiciones 0 hasta num elementos - 1 (0-4)
+#####################################################################
 
-citricos = ["naranja", "limón", "pomelo", "líma", "mandarina"]
-posicion = 0
+# Como implementar un DO/WHILE de otros leguajes de programación.
+# Nos aseguramos que las sentencias se ejecutan al menos una vez.
 
-while (posicion < len(citricos)):    
-    print(f"{posicion}: {citricos[posicion]}")
-    posicion += 1
-else:
-    print("Else del While")    
+index = 0
 
-print("Fin del WHILE")
-
-while (true):
-   #sentencias
-   if (posicion < len(citricos)):
+while (True):
+   print(citricos[index])
+   index += 1
+   if (index >= len(citricos)):
        break
 else:
-    print("Else del While")
+    print("Fin del WHILE")
