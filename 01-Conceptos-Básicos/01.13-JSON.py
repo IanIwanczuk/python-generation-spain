@@ -1,3 +1,12 @@
+#####################################################################
+# JSON - (JavaScript Object Notation)                               #
+#####################################################################
+#                                                                   #
+#   Convertir de Objeto a JSON utilizamos el método json.dumps()    #
+#                                                                   #
+#   Convertir de JSON a Objeto utilizamos el método json.loads()    #
+#                                                                   #
+#####################################################################
 import json
 
 frutas = ["naranja", "limón", "pomelo", "líma", "mandarina"]

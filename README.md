@@ -10,16 +10,16 @@ Contenidos, Ejemplos y Ejercicios de Python
 ---
 
 ### ***MATERIAL DE APOYO***
+* [*Herramientas*](https://github.com/Formaciones/python/blob/main/02-M%C3%B3dulos/HERRAMIENTAS.md)
 * [*Operadores*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/OPERADORES.md)
 * [*Funciones de Listas*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/FUNCIONES-LISTAS.md)
 ---
 
 ### ***EJERCICIOS***
-* [*Conceptos Básicos*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/01_Calcular-la-Edad.py)
+* [*Conceptos Básicos*](https://github.com/Formaciones/python/tree/main/01-Conceptos-B%C3%A1sicos/Ejercicios)
 * [*Conceptos Básicos - Calcular Edad*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/01_Calcular-la-Edad.py)
 * [*Conceptos Básicos - Calcular Velocidad*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/02_Calcular-Velocidad.py)
 * [*Conceptos Básicos - Tabla de Multiplicar*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/03_Tabla-de-Multiplicar.py)
-* [*Programación Orientada a Objetos*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/04_Letra-del-DNI.py)
-* [*Programación Orientada a Objetos - Calculadora*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/04_Letra-del-DNI.py)
-* [*Programación Orientada a Objetos - Calculadora 2*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/Ejercicios/04_Letra-del-DNI.py)
-* 
+* [*Programación Orientada a Objetos*](https://github.com/Formaciones/python/tree/main/03-Programaci%C3%B3n-Orientada-a-Objetos/Ejercicios)
+* [*Programación Orientada a Objetos - Calculadora*](https://github.com/Formaciones/python/blob/main/03-Programaci%C3%B3n-Orientada-a-Objetos/Ejercicios/Calculadora.py)
+* [*Programación Orientada a Objetos - Calculadora 2*](https://github.com/Formaciones/python/blob/main/03-Programaci%C3%B3n-Orientada-a-Objetos/Ejercicios/Calculadora2.py)
