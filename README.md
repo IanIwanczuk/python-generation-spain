@@ -5,8 +5,8 @@ Contenidos, Ejemplos y Ejercicios de Python
 * [*Conceptos Básicos*](https://github.com/Formaciones/python/tree/main/01-Conceptos-B%C3%A1sicos/)
 * [*Conceptos Básicos - Jupyter*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
 * [*Módulos*](https://github.com/Formaciones/python/tree/main/02-M%C3%B3dulos)
-* [*Programación Orientada a Objetos*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
-* [*Programación Orientada a Objetos - Jupyter*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
+* [*Programación Orientada a Objetos*](https://github.com/Formaciones/python/tree/main/03-Programaci%C3%B3n-Orientada-a-Objetos)
+* [*Programación Orientada a Objetos - Jupyter*](https://github.com/Formaciones/python/blob/main/03-Programaci%C3%B3n-Orientada-a-Objetos/03-Programaci%C3%B3n-Orientada-a-Objetos.ipynb)
 ---
 
 ### ***MATERIAL DE APOYO***
