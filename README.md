@@ -4,13 +4,13 @@ Contenidos, Ejemplos y Ejercicios de Python
 ### ***CONTENIDO***
 * [*Conceptos Básicos*](https://github.com/Formaciones/python/tree/main/01-Conceptos-B%C3%A1sicos/)
 * [*Conceptos Básicos - Jupyter*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
-* [*Módulos*](https://github.com/Formaciones/python/tree/main/01-Conceptos-B%C3%A1sicos/)
+* [*Módulos*](https://github.com/Formaciones/python/tree/main/02-M%C3%B3dulos)
 * [*Programación Orientada a Objetos*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
 * [*Programación Orientada a Objetos - Jupyter*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/01-Conceptos-B%C3%A1sicos.ipynb)
 ---
 
 ### ***MATERIAL DE APOYO***
-* [*Herramientas*](https://github.com/Formaciones/python/blob/main/02-M%C3%B3dulos/HERRAMIENTAS.md)
+* [*Herramientas*](https://github.com/Formaciones/python/blob/main/02-M%C3%B3dulos/README.md)
 * [*Operadores*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/OPERADORES.md)
 * [*Funciones de Listas*](https://github.com/Formaciones/python/blob/main/01-Conceptos-B%C3%A1sicos/FUNCIONES-LISTAS.md)
 ---
