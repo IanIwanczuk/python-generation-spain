@@ -47,3 +47,26 @@ print(Func4())
 
 dato2 = Func4()
 print(f"Dato: {dato2}")
+
+
+def Resta(a, b):
+    return a - b
+
+print(Resta(85, 10))
+print(Resta(b=10, a=85))
+
+def Resta1(a, b=10):
+    return a - b
+
+print(Resta1(85, 10))
+print(Resta1(b=10, a=85))
+print(Resta(85))
+print(Resta(a=85))
+
+def Resta2(a=25, b=10):
+    return a - b
+
+print(Resta2())
+print(Resta2(85, 10))
+print(Resta2(85))
+print(Resta1(b=12))

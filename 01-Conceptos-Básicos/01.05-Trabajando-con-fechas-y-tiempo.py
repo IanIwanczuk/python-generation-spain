@@ -53,7 +53,8 @@ dias = dt2 - dt3
 print(f"Tienes {dias.days} dias.")
 print("")
 
-# TIME devuelve la cantidad de segundos transcurridos desde el comienzo el tiempo (normalmente 01-Ene-1970 00:00:00)
+# TIME devuelve la cantidad de segundos transcurridos 
+# desde el comienzo el tiempo (normalmente 01-Ene-1970 00:00:00)
 t1 = time.time()
 print(f"Segundos desde 01-01-1970: {t1}")
 print("")
