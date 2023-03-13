@@ -63,11 +63,12 @@ while (cursor.alive):
 
 
 print("==========================================================")
+print("")
 
 # Los datos de ANATR y todos sus pedidos
 
 cursor = db.Customers.aggregate([
-   {"$match": {"CustomerID": "ANATR"}},
+   {"$match": {"Country": "USA"}},
    {"$sort": {"City": 1}},
    {"$lookup": {
         "from": "Orders",
@@ -82,11 +83,7 @@ while(cursor.alive):
     print(f"{customer['CustomerID']}# {customer['CompanyName']}")
     for order in customer["Orders"]:
         print(f">>> {order['OrderID']} {order['OrderDate']}")
-
+    print("")
 
 
 exit()
-
-#Buscar los clientes de Mexico
-#Mostramos su información del cliente CustomerID + CompanyName
-#Mostramos sus pedidos 
